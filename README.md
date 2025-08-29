@@ -22,7 +22,7 @@ This is useful for **risk management, trading strategies, and financial analytic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/superstore-analysis.git
+git clone https://github.com/akshataundri/Stock-Market-Volatility-Prediction-with-ARCH-GARCH.git
 cd superstore-analysis
 
 
